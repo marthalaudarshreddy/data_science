@@ -1,0 +1,1 @@
+This project focuses on comprehensive data analysis and visualization of flower data using Python libraries such as Matplotlib, NumPy, and Pandas. The dataset contains information about various flower species, and the goal is to gain insights through exploratory data analysis and create informative visualizations.
